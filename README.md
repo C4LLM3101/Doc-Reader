@@ -1,7 +1,7 @@
 
 # Scan QR using Quree
 
-This is a simple PDFreader app built in 📱 Android (for codecluse intern)
+This is a simple PDFreader app built in 📱 Android (for codeclause intern)
 
 
 ## Badges
